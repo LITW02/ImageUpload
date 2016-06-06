@@ -1,0 +1,4 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication28\Image.Stuff.Data\bin\Debug\Image.Stuff.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication28\Image.Stuff.Data\bin\Debug\Image.Stuff.Data.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication28\Image.Stuff.Data\obj\Debug\Image.Stuff.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication28\Image.Stuff.Data\obj\Debug\Image.Stuff.Data.pdb
